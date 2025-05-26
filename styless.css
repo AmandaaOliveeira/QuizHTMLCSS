@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #331F19;;
+    color: #331F19;;
+    font-family: "Cabin", sans-serif;
+    font-weight: 600;
+}
+
+.sobre {
+  background-color: #CCD595;       
+  color:  #331F19;;
+  padding: 200px 200px;
+  border-radius: 50px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+  max-width: 900px;
+  text-align: center;
+   
+}
+
+h1 {
+    color: #331F19;; 
+    margin-bottom: 40px;
+    font-size: 2.2rem;
+    text-align: center;
+}
+
+p {
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    color: #331F19;;
+    text-align: center;
+}
+
+img{
+    width: 10REM;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    padding: 5px;
+    
+}
+
